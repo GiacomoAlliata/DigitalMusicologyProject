@@ -20,3 +20,7 @@ could also be used.
 The state-of-the-art in this domain is
 
 ### References
+* https://mtosmt.org/issues/mto.11.17.3/mto.11.17.3.doll.pdf
+* https://mtosmt.org/issues/mto.11.17.3/mto.11.17.3.summach.pdf
+* https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.de_clercq.pdf
+* http://www.personal.kent.edu/~sbirch/Theory/21341%20CMT/Form%20in%20Rock%20Music.pdf
