@@ -29,6 +29,10 @@ The state-of-the-art in this domain is
     * focus on prechorus, new section that appears in the 1960s
     * chorus is focal point, verses build up narrative, prechorus goal is to gain momentum towards the chorus (without, momentum is only gained during transition)
 * https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.de_clercq.pdf
+    * central concern for theories of form in pop/rock music is the division of songs into sections and their categorizations
+    * this process is often ambiguous because it depends on many factors and sections can have blending roles
+    * discuss 3 types of ambiguity, each based on the main section role involved (verse, chorus or bridge)
+    * individual perception of what constitutes more or less representatives examples of each section type due to individual listening history & complexity of both real world music and perceptual process
 * http://www.personal.kent.edu/~sbirch/Theory/21341%20CMT/Form%20in%20Rock%20Music.pdf
 * https://s3.amazonaws.com/academia.edu.documents/31853711/Biamonte_Fonctions_Modales.pdf?response-content-disposition=inline%3B%20filename%3DLes_fonctions_Modales_dans_le_Rock_et_la.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200315%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200315T220733Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=29ccb8fa2e60f6a1487e17776b7d561a728e83b8876e9281352b12ac8f9642b8 (french version, english also available)
    * Some specific non-digital modal analysis of rock songs
