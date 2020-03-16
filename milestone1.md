@@ -15,7 +15,7 @@ The musical features we can analyze mainly depend on the data we have but we wil
 To do so we will rely on statistics and distributions of these features on the different parts. 
 
 In terms of dataset, a starting point could be the Rolling Stone corpus but a larger dataset such as https://www.ultimate-guitar.com/ 
-could also be used.
+could also be used. The RS corpus comprehends harmonic analyses, melodic transcriptions, stressed-syllables lyrics and timing data for 200 songs from the top songs of the 1950s to the 1990s. On the other hand, the guitar tabs dataset presents lyrics with corresponding chords as well as the tempo for more than 600000 songs (divided by sections such as chorus, verse...).
 
 The state-of-the-art in this domain is
 
