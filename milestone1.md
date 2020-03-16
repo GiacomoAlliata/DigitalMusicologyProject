@@ -36,6 +36,7 @@ The state-of-the-art in this domain is
 * http://www.personal.kent.edu/~sbirch/Theory/21341%20CMT/Form%20in%20Rock%20Music.pdf
    * Description of different common forms of rock songs
    * Harmonic structures play a central role in the differentiation of units of a song
+   * The verse-chorus form is only one among other various forms
 * https://s3.amazonaws.com/academia.edu.documents/31853711/Biamonte_Fonctions_Modales.pdf?response-content-disposition=inline%3B%20filename%3DLes_fonctions_Modales_dans_le_Rock_et_la.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200315%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200315T220733Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=29ccb8fa2e60f6a1487e17776b7d561a728e83b8876e9281352b12ac8f9642b8 (french version, english also available)
    * Some specific non-digital modal analysis of rock songs
 * https://www.researchgate.net/publication/4068537_Summarizing_popular_music_via_structural_similarity_analysis
