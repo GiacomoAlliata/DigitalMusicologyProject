@@ -1,10 +1,10 @@
 # Milestone 1 - Project Proposal
 
 For our project, we want to study the structure of pop/rock songs and its evolution over time.
-Specifically we want to characterize the different parts of a song (typically the verses and the chorus). 
+Specifically we want to characterize the different parts of a song (typically the verse and the chorus). 
 The verse-chorus structure is fairly common in these types of popular music and we want to find out what differentiates them 
 and make it fairly easy to recognize a chorus when you hear it. The time dimension is also important to us as we want to analyze 
-pop and rock songs over a few decades and hopefully find an evolution in the song structure and different parts characteristics.
+pop and rock songs over a few decades and hopefully find an evolution in the song structure and different parts characteristics. In general, in rock and pop songs the structure relies mainly on verse and chorus, with the first serving to build the narrative and the latter being the focal point, as discussed in [1]. Howeover other sections can be found, especially after 1960s with the democratization of the prechorus to build up momentum towards the chorus (whereas before it was mainly done in the small transition section after the verse). 
 
 Of course there are some obvious answers here such as a chorus usually being repeated nearly identical several times in a piece or 
 having other singing voices joining the main one. However we believe there are also other differences more on a technical level 
