@@ -2,13 +2,11 @@
 
 For our project, we want to study the structure of pop/rock songs and its evolution over time.
 Specifically we want to characterize the different parts of a song (typically the verse and the chorus). 
-The verse-chorus structure is fairly common in these types of popular music and we want to find out what differentiates them 
-and make it fairly easy to recognize a chorus when you hear it. The time dimension is also important to us as we want to analyze 
-pop and rock songs over a few decades and hopefully find an evolution in the song structure and different parts characteristics. In general, in rock and pop songs the structure relies mainly on verse and chorus, with the first serving to build the narrative and the latter being the focal point, as discussed in [1]. Howeover other sections can be found, especially after 1960s with the democratization of the prechorus to build up momentum towards the chorus (whereas before it was mainly done in the small transition section after the verse). 
+The verse-chorus structure is fairly common in these types of popular music. We want to find out what makes a chorus distinct, why it is so easily able to catch our attention, to be recognized as the peak of the song. The time dimension is also important to us as we want to analyze pop and rock songs over a few decades and hopefully find an evolution in the song structure and different parts characteristics. To sum up, our final goal is to provide an evolutive caracterization of what distinguishes a chorus from other parts of a song, and maybe understand better what makes it so special in the way we perceive and interpret it.
 
-Of course there are some obvious answers here such as a chorus usually being repeated nearly identical several times in a piece or 
-having other singing voices joining the main one. However we believe there are also other differences more on a technical level 
-such as chords distribution, the use of specific words (or grammatical categories) and a change in the rhythm.
+In general, in rock and pop songs the structure relies mainly on verse and chorus, with the first serving to build the narrative and the latter being the focal point, as discussed in [1]. However other sections can be found, especially after 1960s with the democratization of the prechorus to build up momentum towards the chorus (whereas before it was mainly done in the small transition section after the verse). 
+
+Of course there are some obvious answers to our question, such that a chorus is usually being repeated nearly identical several times in a piece or that other singing voices sometimes join the main one. However we believe there are also other differences more on a technical level such as chords distribution, the use of specific words (or grammatical categories) and a change in the rhythm.
 
 In practice we will compare musical features and lyrics in the different parts of a song in order to find defining characteristics. 
 The musical features we can analyze mainly depend on the data we have but we will mainly focus on chords. Lyrics will also be compared. 
