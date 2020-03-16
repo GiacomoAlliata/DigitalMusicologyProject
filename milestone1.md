@@ -15,29 +15,14 @@ To do so we will rely on statistics and distributions of these features on the d
 In terms of dataset, a starting point could be the Rolling Stone corpus but a larger dataset such as https://www.ultimate-guitar.com/ 
 could also be used. The RS corpus comprehends harmonic analyses, melodic transcriptions, stressed-syllables lyrics and timing data for 200 songs from the top songs of the 1950s to the 1990s. On the other hand, the guitar tabs dataset presents lyrics with corresponding chords as well as the tempo for more than 600000 songs (divided by sections such as chorus, verse...).
 
-The state-of-the-art in this domain is
+Lots of research have already been conducted on this domain to understand the structure of pop and rock songs. [2] describes the different common forms in rock songs and states that harmonic structures play a central role in their differentiation. Even though the verse-chorus form is only one of the many existing structures, it certainly is the most common one and thus it makes sense to focus on the verse-chorus differences. [3] for instance focus on the breakout chorus, a particular type that best embodies the idea to "rock out" at the chorus in rock songs. To do so, it contrants with the preceding verse by conveying an increase in intensity with regard to loudness, rhythmic and textural activity, timbral noise, lyrical content, and pitch level. This last element, called expressive modulation by the author can be considered a defining characteristic of this type of chorus. It is also important to consider the problem from a psychological point of view in order to take into account the inherent ambiguity in the segmentation of a song and the categorization of its different parts. Indeed, as [4] suggests, the individual perception of what constitutes more or less representative examples of each section type is due to individual listening histories and the complexity of both real world music and perceptual processes. Finally, [5] presents the segmentation of pop songs using a similarity matrix and correlating a kernel along its diagonal to find the the segment boundaries such as verse-chorus transitions. Then, by spectral analysis and clustering, each segment is categorized, showing there are indeed defining characteristics of the different sections, at least from a technical point of view.
 
 ### References
-* [1]: The Structure, Function, and Genesis of the Prechorus, Jay Summach https://mtosmt.org/issues/mto.11.17.3/mto.11.17.3.summach.pdf
-    * evolution of verse-chorus form in pop/rock music from strophic forms to four-part formal disposition
-    * focus on prechorus, new section that appears in the 1960s
-    * chorus is focal point, verses build up narrative, prechorus goal is to gain momentum towards the chorus (without, momentum is only gained during transition)
-* https://mtosmt.org/issues/mto.11.17.3/mto.11.17.3.doll.pdf
-    * expressive modulation in rock music (full-scale change of tonal center from minor tonic to its relative major)
-    * focus on breakout chorus (contrasts with its preceding verse by conveying an increase in intensity with regard to loudness,     rhythmic and textural activity, timbral noise, lyrical content, and/or pitch level)
-    * shared expectation to "rock out" at the chorus in rock music
+* [1]: "The Structure, Function, and Genesis of the Prechorus", Jay Summach https://mtosmt.org/issues/mto.11.17.3/mto.11.17.3.summach.pdf
+* [2]: "Form in Rock Music", by John Covach http://www.personal.kent.edu/~sbirch/Theory/21341%20CMT/Form%20in%20Rock%20Music.pdf
+* [3]: "Rockin’ Out: Expressive Modulation in Verse-Chorus Form", by Christopher Doll https://mtosmt.org/issues/mto.11.17.3/mto.11.17.3.doll.pdf
+* [4]: "Embracing Ambiguity in the Analysis of Form in Pop/Rock Music, 1982–1991", by Trevor de Clercq
+https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.de_clercq.pdf
+* [5]: "Summarizing popular music via structural similarity analysis", by Matthew Cooper and Jonathan Foote https://www.researchgate.net/publication/4068537_Summarizing_popular_music_via_structural_similarity_analysis
+* https://s3.amazonaws.com/academia.edu.documents/31853711/Biamonte_Fonctions_Modales.pdf?response-content-disposition=inline%3B%20filename%3DLes_fonctions_Modales_dans_le_Rock_et_la.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200315%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200315T220733Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=29ccb8fa2e60f6a1487e17776b7d561a728e83b8876e9281352b12ac8f9642b8 (french version, english also available)
 
-* https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.de_clercq.pdf
-    * central concern for theories of form in pop/rock music is the division of songs into sections and their categorizations
-    * this process is often ambiguous because it depends on many factors and sections can have blending roles
-    * discuss 3 types of ambiguity, each based on the main section role involved (verse, chorus or bridge)
-    * individual perception of what constitutes more or less representatives examples of each section type due to individual listening history & complexity of both real world music and perceptual process
-* http://www.personal.kent.edu/~sbirch/Theory/21341%20CMT/Form%20in%20Rock%20Music.pdf
-   * Description of different common forms of rock songs
-   * Harmonic structures play a central role in the differentiation of units of a song
-   * The verse-chorus form is only one among other various forms
-* https://s3.amazonaws.com/academia.edu.documents/31853711/Biamonte_Fonctions_Modales.pdf?response-content-disposition=inline%3B%20filename%3DLes_fonctions_Modales_dans_le_Rock_et_la.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200315%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200315T220733Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=29ccb8fa2e60f6a1487e17776b7d561a728e83b8876e9281352b12ac8f9642b8 (french version)
-https://www.academia.edu/29830024/Nicole_Biamonte_MODAL_FUNCTION_IN_ROCK_AND_HEAVY_METAL_MUSIC (english version)
-   * Some specific non-digital modal analysis of rock songs
-* https://www.researchgate.net/publication/4068537_Summarizing_popular_music_via_structural_similarity_analysis
-   * Segmentation of pop songs
