@@ -25,5 +25,8 @@ The state-of-the-art in this domain is
     * focus on breakout chorus (contrasts with its preceding verse by conveying an increase in intensity with regard to loudness,     rhythmic and textural activity, timbral noise, lyrical content, and/or pitch level)
     * shared expectation to "rock out" at the chorus in rock music
 * https://mtosmt.org/issues/mto.11.17.3/mto.11.17.3.summach.pdf
+    * evolution of verse-chorus form in pop/rock music from strophic forms to four-part formal disposition
+    * focus on prechorus, new section that appears in the 1960s
+    * chorus is focal point, verses build up narrative, prechorus goal is to gain momentum towards the chorus (without, momentum is only gained during transition)
 * https://mtosmt.org/issues/mto.17.23.3/mto.17.23.3.de_clercq.pdf
 * http://www.personal.kent.edu/~sbirch/Theory/21341%20CMT/Form%20in%20Rock%20Music.pdf
